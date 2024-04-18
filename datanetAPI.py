@@ -864,7 +864,7 @@ class DatanetAPI:
 
                     # Stopped here continue coding...
                     
-                    s._graph_file = 'graph_output.txt'
+                    s._graph_file = 'graph.txt'
 
                     graph_file = archive.open(s._graph_file)
 
